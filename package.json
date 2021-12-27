@@ -1,0 +1,25 @@
+{
+  "name": "autocheckin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chinvaejay/autoCheckin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chinvaejay/autoCheckin/issues"
+  },
+  "homepage": "https://github.com/Chinvaejay/autoCheckin#readme",
+  "dependencies": {
+    "puppeteer": "^13.0.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
